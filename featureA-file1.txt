@@ -1,1 +1,2 @@
 First Line in featureA-file1.txt
+First Line in featureA-file1.txt
